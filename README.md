@@ -89,7 +89,7 @@ The analysis can support more **fair, transparent, and data-driven decisions** r
 Employee-Workforce-Analysis-SQL/
 │
 ├── README.md
-├── Employee_Workforce_Analysis.sql
+├── pro.sql
 ├── ER_Diagram.png
 └── Employee_Workforce_Analysis_Presentation.pptx
 ```
