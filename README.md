@@ -90,7 +90,6 @@ Employee-Workforce-Analysis-SQL/
 │
 ├── README.md
 ├── pro.sql
-├── ER_Diagram.png
 └── Employee_Workforce_Analysis_Presentation.pptx
 ```
 
